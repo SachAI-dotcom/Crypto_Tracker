@@ -1,3 +1,3 @@
-#SETPROF - A REALTIMECRYPTO TRACKING APP
+SETPROF - A REAL TIME CRYPTO TRACKING APP
 
 https://sachai-dotcom.github.io/Crypto_Tracker/
